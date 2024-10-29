@@ -39,7 +39,7 @@ The objective of this project was to implement a secure, optimized LEMP stack on
 ### Step 1: Connect to Server
 1. **Access the server** using SSH:
    ```bash
-   ssh -i "project1-key.pem" ubuntu@13.48.55.145
+   ssh -i "lemp.pem" ubuntu@13.48.55.145
 
 
 2. Update and upgrade the package lists:
